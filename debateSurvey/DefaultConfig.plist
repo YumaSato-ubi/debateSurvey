@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ssl</key>
+	<true/>
+	<key>host</key>
+	<string>ubi-lynx-db.naist.jp</string>
+	<key>port</key>
+	<string>443</string>
+	<key>database</key>
+	<string>test</string>
+	<key>measurement</key>
+	<string>sample6</string>
+	<key>activities</key>
+	<array>
+		<string>睡眠</string>
+		<string>運動</string>
+		<string>食事</string>
+		<string>服薬</string>
+		<string>個人衛生</string>
+		<string>トイレ</string>
+		<string>入浴・シャワー</string>
+		<string>身支度</string>
+		<string>掃除</string>
+		<string>料理</string>
+		<string>食器洗い</string>
+		<string>洗濯</string>
+		<string>TV視聴</string>
+		<string>読書</string>
+		<string>スマホ・タブレット</string>
+		<string>ゲーム機</string>
+		<string>通勤・通学</string>
+		<string>その他外出</string>
+		<string>仕事・勉強</string>
+	</array>
+</dict>
+</plist>
