@@ -1,5 +1,9 @@
 ### https://raw.github.com/github/gitignore/b3ae3810f8b0f97f24cd61c2d3dd1b5089b91801/Swift.gitignore
 
+# Python
+*.csv
+*.ipynb
+
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
